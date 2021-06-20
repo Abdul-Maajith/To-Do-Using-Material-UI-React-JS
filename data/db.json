@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay CreditCard Bill",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Hello",
+      "details": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "category": "remainders",
+      "id": 5
+    },
+    {
+      "title": "working on something",
+      "details": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "details": "Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-render our layout.\n\n",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "Pay Employees",
+      "details": "Our need for a simple Masonry layout that was fast, used React's Virtual DOM without needing jQuery or other dependencies led us to explore what we could do with the latest techniques using just CSS within a React Component.",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "heeeeeelooooooo!!",
+      "details": "helloooooooooooooooooooooooooooooooo\n",
+      "category": "remainders",
+      "id": 9
+    }
+  ]
+}
