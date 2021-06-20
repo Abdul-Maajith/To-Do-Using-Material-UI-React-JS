@@ -1,4 +1,4 @@
-### Starter Project for the Material UI playlist
+### To-Do Using Material UI-React JS
 
 Download the code & run **npm install** to install dependencies before starting the app.
 
